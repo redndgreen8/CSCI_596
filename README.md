@@ -43,3 +43,15 @@ E : overlap between two k-mers, Sequencing Reads
 
 ![3](3.png)
 
+## Desired improvements
+
+- High-through put generation of images
+- consistent color palette
+
+- Custom Force Algorithm to extract relevant feautures
+- Perform graph analysis
+ - connected component analysis 
+ - network density 
+ - distribution of degrees, edge weights
+ 
+ 
