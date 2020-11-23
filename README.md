@@ -31,3 +31,7 @@ E : overlap between two k-mers, Sequencing Reads
 - Filter nodes based on degree
 
 ![UI](gephi_eg.png)
+
+4. Hope it looks informative / pretty
+
+
