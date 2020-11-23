@@ -7,4 +7,12 @@ I want to build a program for visualization of dense network graphs. The graphs 
 ---
 
 Here is an example of a variant graph called de-brujin graph.
+
+**G=(V,E)**
+V : k-mer representaion of variant in genome
+E : overlap between two kmers
+
+
 ![De-brujin Graph](dbg.png)
+*Identifying and Classifying Trait Linked Polymorphisms in Non-Reference Species by Walking Coloured de Bruijn Graphs.PLoS ONE*
+
