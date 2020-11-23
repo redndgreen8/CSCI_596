@@ -34,6 +34,12 @@ E : overlap between two k-mers, Sequencing Reads
 
 4. Hope it looks informative / pretty
 
-![1](3.pdf)
+![scr](screenshot_083306.png)
 
+![1](1.png)
+
+![2](2.png)
+
+
+![3](3.png)
 
