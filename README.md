@@ -21,4 +21,13 @@ E : overlap between two k-mers, Sequencing Reads
 
 ## Current Setup 
 1. Build graph by streaming reads across variants
-2. Load onto gephi ![Gephi](download.png)
+2. Load onto gephi 
+
+![Gephi](download.png)
+
+3. Play around with:
+- Layout Algorithm
+- Color Pallete
+- Filter nodes based on degree
+
+![UI](gephi_eg.png)
