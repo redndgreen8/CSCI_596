@@ -6,7 +6,7 @@ I want to build a program for visualization of dense network graphs. The graphs 
 
 ---
 
-Here is an example of a variant graph called de-brujin graph.
+Here is an example of a variant graph called de-brujin graph(directed).
 
 **G=(V,E)**
 
@@ -28,7 +28,7 @@ E : overlap between two k-mers, Sequencing Reads
 3. Play around with:
 - Layout Algorithm
 - Color Pallete
-- Filter nodes based on degree
+- Filter nodes based on degree, edge attributes
 
 ![UI](gephi_eg.png)
 
@@ -45,8 +45,8 @@ E : overlap between two k-mers, Sequencing Reads
 
 ## Desired improvements
 
-- High-through put generation of images
-- consistent color palette
+- High-throughput generation of images
+- Consistent color palette
 
 - Custom Force Algorithm to extract relevant feautures
 - Perform graph analysis
