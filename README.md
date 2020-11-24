@@ -48,7 +48,7 @@ E : overlap between two k-mers, Sequencing Reads
 - High-throughput generation of images
 - Consistent color palette
 
-- Custom Force Algorithm to visualize relevant features
+- Custom Force Algorithm to visualize relevant features. (n-body problem)
 - Perform graph analysis
  - connected component analysis 
  - network density 
