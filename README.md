@@ -45,11 +45,11 @@ E : overlap between two k-mers, Sequencing Reads
 
 ## Desired Features
 
-- High-throughput generation of images
+1. High-throughput generation of images
 - Consistent color palette
 
 - Custom Force Algorithm to visualize relevant features. (n-body problem)
-- Perform graph analysis
+2. Perform graph analysis
  - connected component analysis 
  - network density 
  - distribution of degrees, edge weights
